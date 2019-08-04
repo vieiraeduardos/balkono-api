@@ -5,7 +5,7 @@ module.exports.getConnection = function() {
     host: "localhost",
     user: "root",
     //password: "patrino",
-    password: "mysql",
+    password: "balkono",
     database: "balkonodb"
   });
 
